@@ -1,0 +1,28 @@
+Name: Translations
+Type: TranslationsCategoryFolder
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [13,3],
+    "Body": [
+     "","en-US","zh-CN",
+     "Acknowledge","Acknowledge","确认",
+     "Acknowledge All","Acknowledge All","全部确认",
+     "Message","Message","消息",
+     "Confirm","Confirm","证实",
+     "Confirm All","Confirm All","全部证实",
+     "Timestamp","Timestamp","时间戳",
+     "Active","Active","活动",
+     "Acked","Acked","已应答",
+     "SourceName","Source Variable","源变量",
+     "Confirmed","Confirmed","已证实",
+     "Name","Name","名称",
+     "Severity","Severity","严重性"
+    ]
+   }
